@@ -24,6 +24,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Luigi_Pirandello
 description: Six characters in search of an author; Henry IV. Right you are! (If you
   think so.).
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42148#Three-Plays
 gutenberg_issued: '2013-02-21'
 gutenberg_type: Text
 identifiers:
