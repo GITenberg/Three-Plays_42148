@@ -1,0 +1,42 @@
+_repo: Three-Plays_42148
+_version: 0.1.0
+contributor:
+  translators:
+  - agent_name: Livingstone, Arthur
+    gutenberg_agent_id: '41548'
+    url: http://www.gutenberg.org/2009/agents/41548
+  - agent_name: Storer, Edward
+    alias: Storer, Edward A. (Edward Augustine)
+    birthdate: 1880
+    deathdate: 1944
+    gutenberg_agent_id: '41547'
+    url: http://www.gutenberg.org/2009/agents/41547
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pirandello, Luigi
+    birthdate: 1867
+    deathdate: 1936
+    gutenberg_agent_id: '8041'
+    url: http://www.gutenberg.org/2009/agents/8041
+    wikipedia: http://en.wikipedia.org/wiki/Luigi_Pirandello
+description: Six characters in search of an author; Henry IV. Right you are! (If you
+  think so.).
+gutenberg_issued: '2013-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42148'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Pirandello, Luigi, 1867-1936 -- Translations into English'
+- !lcsh 'Italian drama -- Translations into English'
+tableOfContents: Six characters in search of an author -- Henry IV -- Right you are!
+  (if you think so).
+title: Three Plays
+url: http://www.gutenberg.org/ebooks/42148
